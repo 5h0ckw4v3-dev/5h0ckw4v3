@@ -1,38 +1,28 @@
-<!---
-- 👋 Hi, I’m @5h0ckw4v3-dev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-5h0ckw4v3-dev/5h0ckw4v3-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h1 align="center">Hi 👋, I'm Antonio José Moya</h1>
-<h3 align="center">Administrador de Sistemas Informáticos y Redes</h3>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ¡Hola! Encantado de verte.</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=5h0ckw4v3-dev&label=Profile%20views&color=0e75b6&style=flat" alt="5h0ckw4v3-dev" /> </p>
 
-- 🔭 I’m currently working on **ISOIN S.L.**
-
-- 📫 How to reach me **ajmoya1983@outlook.com**
-
-- 📄 Know about my experiences [https://antoniojmoya.tk/](https://antoniojmoya.tk/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/antoniojosemoya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antoniojosemoya" height="30" width="40" /></a>
+<p>Bienvenido a mi web </br> Mi nombre es Antonio José y soy Administrador de Sistemas y Redes en<img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> <b>Sevilla, España</b>. </p>
+<h3>Tecnologias que uso</h3>
+<p>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
+  <img alt="Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+  <img alt="Libreoffice" src="https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
+  <img alt="Ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img alt="VMWAre" src="https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white&style=for-the-badge" />
+  <img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge" />
+  <img alt="Raspberry" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
 </p>
 
-<h3 align="left">Skills:</h3>
-<p align="left"> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/es-es/windows" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> </a> 
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+<h3>Mis últimos post</h3>
+<ul>
+  <li><a href="https://5h0ckw4v3-dev.github.io/posts/SSH_to_WSL/"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Iniciar SSH Server en Windows con WSL2</b></a><br/><i>Conéctate a tu maquina WSL desde cualquier equipo de la red.</i></li>
 
-<!--
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=5h0ckw4v3-dev&show_icons=true&locale=en&layout=compact" alt="5h0ckw4v3-dev" /></p>
---->
-
+<h3>Donde puedes encontrarme</h3>
+<p>
+<a href="https://github.com/5h0ckw4v3-dev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/antoniojosemoya" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
