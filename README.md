@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ¡Hola! Encantado de verte.</h1>
 
 
-<p>Bienvenido a mi web </br> Mi nombre es Antonio José y soy Administrador de Sistemas y Redes en<img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> <b>Sevilla, España</b>. </p>
+<p>Bienvenido a mi web </br> Mi nombre es Antonio José y soy Administrador de Sistemas y Redes en <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> <b>Sevilla, España</b>. </p>
 <h3>Tecnologias que uso</h3>
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -16,11 +16,11 @@
   <img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge" />
   <img alt="Raspberry" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
 </p>
-
+<br>
 <h3>Mis últimos post</h3>
 <ul>
   <li><a href="https://5h0ckw4v3-dev.github.io/posts/SSH_to_WSL/"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Iniciar SSH Server en Windows con WSL2</b></a><br/><i>Conéctate a tu maquina WSL desde cualquier equipo de la red.</i></li>
-
+<br>
 <h3>Donde puedes encontrarme</h3>
 <p>
 <a href="https://github.com/5h0ckw4v3-dev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
