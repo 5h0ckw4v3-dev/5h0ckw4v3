@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476" width="30"/> ¡Hola! Encantado de verte.</h1>
 
 
-<p>Bienvenido a mi web </br> Mi nombre es Antonio José y soy Administrador de Sistemas y Redes en <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> <b>Sevilla, España</b>. </p>
+<p>Bienvenido a mi web </br> Mi nombre es Antonio José y soy Administrador de Sistemas y Redes en <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> </p>
 <h3>Tecnologias que uso</h3>
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
