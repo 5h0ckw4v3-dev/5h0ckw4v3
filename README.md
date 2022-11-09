@@ -19,7 +19,7 @@
 <br>
 <h3>Mis últimos post</h3>
   <ul>
-    <li><a href="https://5h0ckw4v3-dev.github.io/posts/SSH_to_WSL/"><b> Iniciar SSH Server en Windows con WSL2</b></a><br/><i>Conéctate a tu maquina WSL desde cualquier equipo de la red.</i>
+    <li><a href="https://antoniojmoya.tk/posts/kex/"><b> Instalación y uso de Win-Kex en Ubuntu</b></a><br/><i>Kali-Win-Kex, el entorno gráfico nativo de Kali WSL2 en Ubuntu </i>
     </li>
   </ul>
 <br>
