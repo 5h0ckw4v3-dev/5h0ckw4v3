@@ -17,7 +17,7 @@
   <img alt="Raspberry" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
 </p>
 <br>
-![Certifications](https://github-readme-widgets.vercel.app/api?antonio-jose-moya-mellado=ashishsinghbaghel&theme=dark)
+[![Certifications](https://github-readme-widgets.vercel.app/api?username=antonio-jose-moya-mellado&theme=dark)]
 <br>
 <h3>Mis últimos post</h3>
   <ul>
