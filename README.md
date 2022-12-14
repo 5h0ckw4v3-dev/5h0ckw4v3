@@ -17,6 +17,9 @@
   <img alt="Raspberry" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
 </p>
 <br>
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+<br>
 <h3>Mis últimos post</h3>
   <ul>
     <li><a href="https://antoniojmoya.tk/posts/kex/"><b> Instalación y uso de Win-Kex en Ubuntu</b></a><br/><i>Kali-Win-Kex, el entorno gráfico nativo de Kali WSL2 en Ubuntu </i>
