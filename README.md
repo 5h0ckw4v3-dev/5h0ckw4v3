@@ -20,12 +20,7 @@
 <a href="https://www.credly.com/users/antonio-jose-moya-mellado/badges">Mi perfil en Credly</a><br />
   
 <!--START_SECTION:badges
-[![Introduction to Cybersecurity Tools & Cyber Attacks](https://images.credly.com/size/100x100/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png)](https://www.credly.com/badges/d5bd51c1-4ac0-4c2c-894e-502f1d93a60d "Introduction to Cybersecurity Tools & Cyber Attacks")
-[![CyberOps Associate](https://images.credly.com/size/100x100/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png)](https://www.credly.com/badges/bdd35d45-2b04-4df4-b725-25aec170a457 "CyberOps Associate")
-[![Cybersecurity Pathway](https://images.credly.com/size/100x100/images/fd01bdd5-9d8b-4acd-a272-e981128ec731/CybersecurityPathwayBadge.png)](https://www.credly.com/badges/e801c0a7-f203-41ca-8903-47fbc5ee725c "Cybersecurity Pathway")
-[![CCNA: Switching, Routing, and Wireless Essentials](https://images.credly.com/size/100x100/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png)](https://www.credly.com/badges/ceb3b4d4-f8f0-41da-81ab-b1df25b0d61c "CCNA: Switching, Routing, and Wireless Essentials")
-[![CCNA: Introduction to Networks](https://images.credly.com/size/100x100/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)](https://www.credly.com/badges/eaad0876-d817-4d87-ae13-bac19dc8bac6 "CCNA: Introduction to Networks")
-[![Introduction to Cybersecurity](https://images.credly.com/size/100x100/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/d83443ce-9744-4ff7-9992-06305945f9b8 "Introduction to Cybersecurity")
+
 <!--END_SECTION:badges-->
 <br>
 <h3>Mis últimos post</h3>
