@@ -8,7 +8,7 @@
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
   <img alt="Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
   <img alt="Libreoffice" src="https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white" />
-  <img alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+<!--  <img alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> -->
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
   <img alt="Ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" />
@@ -17,9 +17,9 @@
   <img alt="Raspberry" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
 </p>
 <br>
-<a href="https://www.credly.com/users/antonio-jose-moya-mellado/badges">Mi perfil en Credly</a><br />
+<a href="https://www.credly.com/users/antonio-jose-moya-mellado/badges" target="_blank">Mi perfil en Credly</a><br />
   
-<!--START_SECTION:badges
+<!--START_SECTION:badges -->
 
 <!--END_SECTION:badges-->
 <br>
