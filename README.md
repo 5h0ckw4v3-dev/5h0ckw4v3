@@ -17,15 +17,13 @@
   <img alt="Raspberry" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
 </p>
 <br>
-<a href="https://www.credly.com/users/antonio-jose-moya-mellado/badges" target="_blank">Mi perfil en Credly</a><br />
-  
-<!--START_SECTION:badges -->
 
-<!--END_SECTION:badges-->
+<a href="https://www.credly.com/users/antonio-jose-moya-mellado/badges" target="_blank">Mi perfil de Credly</a><br />
+
 <br>
 <h3>Mis últimos post</h3>
   <ul>
-    <li><a href="https://antoniojmoya.tk/posts/kex/"><b> Instalación y uso de Win-Kex en Ubuntu</b></a><br/><i>Kali-Win-Kex, el entorno gráfico nativo de Kali WSL2 en Ubuntu </i>
+    <li><a href="https://antoniojmoya.tk/posts/nat_hyperv/"><b> Crear red personalizada en Hyper-V</b></a><br/><i>Gestión de conmutadores virtuales internos y NAT </i>
     </li>
   </ul>
 <br>
