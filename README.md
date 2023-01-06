@@ -23,9 +23,9 @@
     </li>
   </ul>
 <br>
-<h3>Enlaces de interés/h3>
+<h3>Enlaces de interés</h3>
 <p>
-<a href="https://github.com/5h0ckw4v3-dev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://twitter.com/_5h0ckw4v3_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://linkedin.com/in/antoniojosemoya" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.credly.com/users/antonio-jose-moya-mellado/badges" target="_blank"><img alt="Credly" src="https://camo.githubusercontent.com/15d08de27568e4eb390b4be947a292954b8372f81b196ee3f1f8bfca16f8a663/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d437265646c7926636f6c6f723d464636423030266c6f676f3d437265646c79266c6f676f436f6c6f723d464646464646266c6162656c3d" /></a>
 </p>
