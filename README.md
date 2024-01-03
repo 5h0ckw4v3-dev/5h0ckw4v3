@@ -6,7 +6,7 @@
 <p>
 <!--  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> -->
   <img alt="RedHat" src="https://img.shields.io/badge/RedHat-D60016?style=for-the-badge&logo=redhat&logoColor=white" />
-  <img alt="KaliLinux" src="hhttps://img.shields.io/badge/Kali%20Linux-00A9D6?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img alt="KaliLinux" src="https://img.shields.io/badge/Kali%20Linux-00A9D6?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
   <img alt="Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
   <img alt="Libreoffice" src="https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white" />
