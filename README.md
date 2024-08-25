@@ -2,6 +2,11 @@
 
 
 <p>Bienvenido a mi web </br> Mi nombre es Antonio José y soy Administrador de Sistemas y Redes en <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> </p>
+<h3>Certificaciones</h3>
+<p align style="right">
+<a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000224902/ru78s9x3d2" target="_blank"><img alt="LPIC-1" src="/assets/img/lpic.png" width="100"/></a>
+<a href="https://www.credly.com/badges/3cfbccf8-c514-4655-ae58-2ad09d657672/" target="_blank"><img alt="VMWare" src="/assets/img/vmware.png" width="94"/></a>
+</p>
 <h3>Tecnologias que uso</h3>
 <p>
 <!--  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> -->
